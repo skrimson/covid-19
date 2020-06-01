@@ -578,5 +578,70 @@
         "confirmed": 1802,
         "deaths": 10,
         "recovered": 1786
+    },
+    "2020-05-17": {
+        "confirmed": 1802,
+        "deaths": 10,
+        "recovered": 1786
+    },
+    "2020-05-18": {
+        "confirmed": 1802,
+        "deaths": 10,
+        "recovered": 1786
+    },
+    "2020-05-19": {
+        "confirmed": 1802,
+        "deaths": 10,
+        "recovered": 1789
+    },
+    "2020-05-20": {
+        "confirmed": 1803,
+        "deaths": 10,
+        "recovered": 1789
+    },
+    "2020-05-21": {
+        "confirmed": 1803,
+        "deaths": 10,
+        "recovered": 1790
+    },
+    "2020-05-22": {
+        "confirmed": 1803,
+        "deaths": 10,
+        "recovered": 1791
+    },
+    "2020-05-23": {
+        "confirmed": 1804,
+        "deaths": 10,
+        "recovered": 1791
+    },
+    "2020-05-24": {
+        "confirmed": 1804,
+        "deaths": 10,
+        "recovered": 1791
+    },
+    "2020-05-25": {
+        "confirmed": 1804,
+        "deaths": 10,
+        "recovered": 1791
+    },
+    "2020-05-26": {
+        "confirmed": 1804,
+        "deaths": 10,
+        "recovered": 1792
+    },
+    "2020-05-27": {
+        "confirmed": 1805,
+        "deaths": 10,
+        "recovered": 1792
+    },
+    "2020-05-28": {
+        "confirmed": 1805,
+        "deaths": 10,
+        "recovered": 1792
+    },
+    "2020-05-29": {
+        "confirmed": 1805,
+        "deaths": 10,
+        "recovered": 1794
     }
 }
