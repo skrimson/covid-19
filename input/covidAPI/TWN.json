@@ -643,5 +643,30 @@
         "confirmed": 442,
         "deaths": 7,
         "recovered": 420
+    },
+    "2020-05-30": {
+        "confirmed": 442,
+        "deaths": 7,
+        "recovered": 421
+    },
+    "2020-05-31": {
+        "confirmed": 442,
+        "deaths": 7,
+        "recovered": 423
+    },
+    "2020-06-01": {
+        "confirmed": 443,
+        "deaths": 7,
+        "recovered": 427
+    },
+    "2020-06-02": {
+        "confirmed": 443,
+        "deaths": 7,
+        "recovered": 427
+    },
+    "2020-06-03": {
+        "confirmed": 443,
+        "deaths": 7,
+        "recovered": 428
     }
 }

@@ -643,5 +643,30 @@
         "confirmed": 232248,
         "deaths": 33229,
         "recovered": 152844
+    },
+    "2020-05-30": {
+        "confirmed": 232664,
+        "deaths": 33340,
+        "recovered": 155633
+    },
+    "2020-05-31": {
+        "confirmed": 232997,
+        "deaths": 33415,
+        "recovered": 157507
+    },
+    "2020-06-01": {
+        "confirmed": 233197,
+        "deaths": 33475,
+        "recovered": 158355
+    },
+    "2020-06-02": {
+        "confirmed": 233515,
+        "deaths": 33530,
+        "recovered": 160092
+    },
+    "2020-06-03": {
+        "confirmed": 233836,
+        "deaths": 33601,
+        "recovered": 160938
     }
 }
